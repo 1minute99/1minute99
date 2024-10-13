@@ -4,10 +4,12 @@ I'm a senior data science student at Arizona State University with internship ex
 My professional interests are Machine Learning, Deep Learning, Natural Language Processing, and Image Processing.
 
 ## Personal Projects
-
+### Data Analysis Projects
 - [Data Science Job Salary Analysis](https://github.com/1minute99/DataScience-Job-Salary-Analysis)
 - [Diabetes Exploratory Data Analysis](https://github.com/1minute99/Diabetes-EDA?tab=readme-ov-file#diabetes-exploratory-data-analysis)
-- [Nutrition Facts Analysis](https://github.com/1minute99/Nutrition-Facts-Analysis)
+
+### Machine Learning / Deep Learning Projects
+- [Nutrition Facts Label Analysis](https://github.com/1minute99/Nutrition-Facts-label-Calculator)
 
 ## Contact
 - Email: 1minute99@gmail.com
