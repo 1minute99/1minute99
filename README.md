@@ -1,5 +1,7 @@
-## Hi there 👋 I'm Wonmin Kim
+# Hi there 👋 I'm Wonmin Kim!
 
+# Contact
+1minute99@gmail.com  
 <!--
 **1minute99/1minute99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
