@@ -10,10 +10,6 @@ My professional interests are Machine Learning, Deep Learning, Natural Language 
 
 ### Machine Learning / Deep Learning Projects
 - [Nutrition Facts Label Calculator](https://github.com/1minute99/Nutrition-Facts-Label-Calculator)
-
-## Contact
-- Email: 1minute99@gmail.com
-- LinkedIn: https://www.linkedin.com/in/wonmin-kim
 <!--
 **1minute99/1minute99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
