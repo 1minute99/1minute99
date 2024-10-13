@@ -1,7 +1,14 @@
-# Hi there 👋 I'm Wonmin Kim!
+# Hi there 👋! I'm Wonmin Kim.
 
-# Contact
-1minute99@gmail.com  
+## Personal Projects
+
+- [Data Science Job Salary Analysis](https://github.com/1minute99/DataScience-Job-Salary-Analysis)
+- [Diabetes Exploratory Data Analysis](https://github.com/1minute99/Diabetes-EDA?tab=readme-ov-file#diabetes-exploratory-data-analysis)
+- [Nutrition Facts Analysis](https://github.com/1minute99/Nutrition-Facts-Analysis)
+
+## Contact
+- Email: 1minute99@gmail.com
+- LinkedIn: https://www.linkedin.com/in/wonmin-kim
 <!--
 **1minute99/1minute99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
