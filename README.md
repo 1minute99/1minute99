@@ -9,7 +9,7 @@ My professional interests are Machine Learning, Deep Learning, Natural Language 
 - [Diabetes Exploratory Data Analysis](https://github.com/1minute99/Diabetes-EDA?tab=readme-ov-file#diabetes-exploratory-data-analysis)
 
 ### Machine Learning / Deep Learning Projects
-- [Nutrition Facts Label Analysis](https://github.com/1minute99/Nutrition-Facts-label-Calculator)
+- [Nutrition Facts Label Calculator](https://github.com/1minute99/Nutrition-Facts-Label-Calculator)
 
 ## Contact
 - Email: 1minute99@gmail.com
