@@ -4,12 +4,13 @@ I'm a senior data science student at Arizona State University with internship ex
 My professional interests are Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.
 
 ## Personal Projects
-### Data Analysis Projects
+### Data Analysis
 - [Data Science Job Salary Analysis](https://github.com/1minute99/DataScience-Job-Salary-Analysis)
 - [Diabetes Exploratory Data Analysis](https://github.com/1minute99/Diabetes-EDA?tab=readme-ov-file#diabetes-exploratory-data-analysis)
 
-### Machine Learning / Deep Learning Projects
+### Machine Learning / Deep Learning
 - [Nutrition Facts Label Calculator](https://github.com/1minute99/Nutrition-Facts-Label-Calculator)
+- [Fitness Tracker](https://github.com/1minute99/Fitness-Tracker)
 <!--
 **1minute99/1minute99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
