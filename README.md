@@ -8,9 +8,11 @@ My professional interests are Machine Learning, Deep Learning, Natural Language 
 - [Data Science Job Salary Analysis](https://github.com/1minute99/DataScience-Job-Salary-Analysis)
 - [Diabetes Exploratory Data Analysis](https://github.com/1minute99/Diabetes-EDA?tab=readme-ov-file#diabetes-exploratory-data-analysis)
 
-### Machine Learning / Deep Learning
+### Machine Learning
+- [Barbell Exercise Classifier](https://github.com/1minute99/Barbell-Exercise-Classifier)
+
+### Computer Vision
 - [Nutrition Facts Label Calculator](https://github.com/1minute99/Nutrition-Facts-Label-Calculator)
-- [Fitness Tracker](https://github.com/1minute99/Fitness-Tracker)
 <!--
 **1minute99/1minute99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
