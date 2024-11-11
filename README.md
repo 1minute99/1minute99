@@ -1,7 +1,7 @@
 # Hi there 👋! I'm Wonmin Kim.
 
 I'm a senior data science student at Arizona State University with internship experience in data analysis and engineering.  
-My professional interests are Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.
+My professional interests are handling complex data such as images, time series, and natural language.
 
 ## Personal Projects
 ### Data Analysis
@@ -9,6 +9,7 @@ My professional interests are Machine Learning, Deep Learning, Natural Language 
 - [Diabetes Exploratory Data Analysis](https://github.com/1minute99/Diabetes-EDA?tab=readme-ov-file#diabetes-exploratory-data-analysis)
 
 ### Machine Learning
+- [Physical Activity Predictor](https://github.com/1minute99/physical-activity-predictor)
 - [Barbell Exercise Classifier](https://github.com/1minute99/Barbell-Exercise-Classifier)
 
 ### Computer Vision
