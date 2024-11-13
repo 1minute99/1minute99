@@ -5,7 +5,7 @@ My professional interests are handling complex data such as images, time series,
 
 ## Personal Projects
 ### Machine Learning
-- [Physical Activity Predictor](https://github.com/1minute99/physical-activity-predictor)
+- [Physical Activity Predictor](https://github.com/1minute99/physical-activity-predictor)⭐️
 - [Barbell Exercise Classifier](https://github.com/1minute99/Barbell-Exercise-Classifier)
 
 ### Data Analysis
