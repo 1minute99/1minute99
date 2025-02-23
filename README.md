@@ -6,7 +6,7 @@ My professional interests are handling complex data such as images, time series,
 ## 🚀 Key Projects
 ### [Physical Activity Classification with Time Series Data](https://github.com/1minute99/physical-activity-predictor)
 🛠️ **Tech Stack:** Python, Scikit-learn, Pandas  
-📊 **Focus:** Machine Learning, Time Series, Signal Processing
+🏃 **Focus:** Machine Learning, Time Series, Signal Processing
 
 ### [Brain Tumor Classification with MRI Images](https://github.com/1minute99/Brain-Tumor-Classification/tree/main)
 🛠️ **Tech Stack:** Python, TensorFlow, Keras  
@@ -19,8 +19,8 @@ My professional interests are handling complex data such as images, time series,
 
 ### [Data Science Job Salary Analysis](https://github.com/1minute99/DataScience-Job-Salary-Analysis)  
 🛠️ **Tech Stack:** Python, Pandas, Scikit-learn  
-💡 **Focus:** EDA, Interactive Data Visualization (Shiny)
+📊 **Focus:** EDA, Interactive Data Visualization (Shiny)
 
 ### [Diabetes Exploratory Data Analysis](https://github.com/1minute99/Diabetes-EDA?tab=readme-ov-file#diabetes-exploratory-data-analysis)  
 🛠️ **Tech Stack:** Python, Matplotlib, Seaborn  
-🩺 **Focus:** EDA, Data Cleaning, Visualization, Correlation Analysis, Healthcare
+📈 **Focus:** EDA, Data Cleaning, Visualization, Correlation Analysis, Healthcare
