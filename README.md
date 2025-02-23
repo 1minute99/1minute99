@@ -3,7 +3,7 @@
 I'm a senior data science student at Arizona State University with internship experience in data analysis and engineering.  
 My professional interests are handling complex data such as images, time series, and natural language.
 
-## Personal Projects
+## Projects
 ### Machine Learning & Deep Learning
 - [Physical Activity Classification with Time Series Data](https://github.com/1minute99/physical-activity-predictor) ⭐️
 - [Brain Tumor Classification with MRI Images](https://github.com/1minute99/Brain-Tumor-Classification/tree/main) ⭐️
