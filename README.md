@@ -9,7 +9,6 @@ My professional interests are handling complex data such as images, time series,
 - [Brain Tumor Classification with MRI Images](https://github.com/1minute99/Brain-Tumor-Classification/tree/main) ⭐️
 - [Barbell Exercise Classification with Time Series Data](https://github.com/1minute99/Barbell-Exercise-Classifier)
 
-### Data Analysis
-- [Data Science Job Salary Analysis](https://github.com/1minute99/DataScience-Job-Salary-Analysis)
-- [Diabetes Exploratory Data Analysis](https://github.com/1minute99/Diabetes-EDA?tab=readme-ov-file#diabetes-exploratory-data-analysis)
-
+## Learning Projects
+[Data Science Job Salary Analysis](https://github.com/1minute99/DataScience-Job-Salary-Analysis)
+[Diabetes Exploratory Data Analysis](https://github.com/1minute99/Diabetes-EDA?tab=readme-ov-file#diabetes-exploratory-data-analysis)
