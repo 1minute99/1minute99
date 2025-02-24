@@ -5,7 +5,7 @@ My professional interests are handling complex data such as images, time series,
 
 ### 🚀 Key Projects
 
-|📈 Project Name |🛠️ Tech Stack |💡 Keywords |
+|📈 Project Name |💻 Tech Stack |💡 Keywords |
 |--------------|------------|-------|
 | [Physical Activity Classification with Time Series Data](https://github.com/1minute99/physical-activity-predictor) | Python, Scikit-learn, Pandas, Matplotlib | Machine Learning, Time Series, Signal Processing |
 | [Brain Tumor Classification with MRI Images](https://github.com/1minute99/Brain-Tumor-Classification/tree/main) | Python, TensorFlow, Keras, Pandas, Matplotlib | Deep Learning, CNN, MRI Images, Computer Vision |
@@ -14,7 +14,7 @@ My professional interests are handling complex data such as images, time series,
 
 ### 🎓 Learning Projects
 
-|📈 Project Name |🛠️ Tech Stack |💡 Keywords |
+|📈 Project Name |💻 Tech Stack |💡 Keywords |
 |--------------|------------|-------|
 | [Barbell Exercise Classification with Time Series Data](https://github.com/1minute99/Barbell-Exercise-Classifier) | Python, Scikit-learn, Pandas, Matplotlib | Machine Learning, Deep Learning, Time Series, Signal Processing |
 | [Data Science Job Salary Analysis](https://github.com/1minute99/DataScience-Job-Salary-Analysis) | R, ggplot2, dplyr | EDA, Interactive Data Visualization (Shiny) |
