@@ -5,22 +5,22 @@ My professional interests are handling complex data such as images, time series,
 
 ## 🚀 Key Projects
 ### [Physical Activity Classification with Time Series Data](https://github.com/1minute99/physical-activity-predictor)
-🛠️ **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib 
-🏃 **Focus:** Machine Learning, Time Series, Signal Processing
+- 🛠️ **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
+- 🏃 **Focus:** Machine Learning, Time Series, Signal Processing
 
 ### [Brain Tumor Classification with MRI Images](https://github.com/1minute99/Brain-Tumor-Classification/tree/main)
-🛠️ **Tech Stack:** Python, TensorFlow, Keras, Pandas, Matplotlib
-🧠 **Focus:** Deep Learning, CNN, MRI Images, Computer Vision
+- 🛠️ **Tech Stack:** Python, TensorFlow, Keras, Pandas, Matplotlib
+- 🧠 **Focus:** Deep Learning, CNN, MRI Images, Computer Vision
 
 ## 🎓 Learning Projects
 ### [Barbell Exercise Classification with Time Series Data](https://github.com/1minute99/Barbell-Exercise-Classifier)  
-🛠️ **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
-🏋️ **Focus:** Machine Learning, Deep Learning, Time Series, Signal Processing
+- 🛠️ **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
+- 🏋️ **Focus:** Machine Learning, Deep Learning, Time Series, Signal Processing
 
 ### [Data Science Job Salary Analysis](https://github.com/1minute99/DataScience-Job-Salary-Analysis)  
-🛠️ **Tech Stack:** R, ggplot2, dplyr
-📊 **Focus:** EDA, Interactive Data Visualization (Shiny)
+- 🛠️ **Tech Stack:** R, ggplot2, dplyr
+- 📊 **Focus:** EDA, Interactive Data Visualization (Shiny)
 
 ### [Diabetes Exploratory Data Analysis](https://github.com/1minute99/Diabetes-EDA?tab=readme-ov-file#diabetes-exploratory-data-analysis)  
-🛠️ **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
-📈 **Focus:** EDA, Data Cleaning, Visualization, Correlation Analysis, Healthcare
+- 🛠️ **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
+- 📈 **Focus:** EDA, Data Cleaning, Visualization, Correlation Analysis, Healthcare
