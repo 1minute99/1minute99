@@ -7,8 +7,10 @@ My professional interests are handling complex data such as images, time series,
 
 |📈 Project Name |💻 Tech Stack |💡 Keywords |
 |--------------|------------|-------|
+| [End-to-End Real Time Hand Keypoints Detection on Jetson Orin Nano (YOLO vs. Heatmap)](https://github.com/1minute99/hand_keypoints_detection) | Python, Scikit-learn, Pandas, Matplotlib | Edge AI, Computer Vision, Optimization, Pytorch, Onnx, TensorRT, CNNs |
+| [End-to-End Stop Sign Detection on Arduino Nano 33 BLE (Embedded TinyML Project)](https://github.com/1minute99/StopSignDetection) | Python, Scikit-learn, Pandas, Matplotlib | Embedded AI, Tensorflow, TFLite, TFLite Micro, Quantization, CNNs|
 | [Physical Activity Classification with Time Series Data](https://github.com/1minute99/physical-activity-predictor) | Python, Scikit-learn, Pandas, Matplotlib | Machine Learning, Time Series, Signal Processing |
-| [Brain Tumor Classification with MRI Images](https://github.com/1minute99/Brain-Tumor-Classification/tree/main) | Python, TensorFlow, Keras, Pandas, Matplotlib | Deep Learning, CNN, MRI Images, Computer Vision |
+| [Brain Tumor Classification with MRI Images](https://github.com/1minute99/Brain-Tumor-Classification/tree/main) | Python, TensorFlow, Keras, Pandas, Matplotlib | Deep Learning, CNNs, MRI Images, Computer Vision |
 
 ---
 
