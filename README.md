@@ -1,8 +1,5 @@
 # Hi there 👋! I'm Wonmin Kim.
 
-I'm a senior data science student at Arizona State University with internship experience in data analysis and engineering.  
-My professional interests are handling complex data such as images, time series, and natural language.
-
 ### 🚀 Key Projects
 
 |📈 Project Name |💻 Tech Stack |💡 Keywords |
